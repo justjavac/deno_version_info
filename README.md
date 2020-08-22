@@ -9,8 +9,8 @@ Get version info of Deno from <https://deno.land/x>.
 ## Usage
 
 ```js
-import versionInfo from 'https://deno.land/x/latest_version/mod.ts';
-import type { VersionInfo } from 'https://deno.land/x/latest_version/mod.ts';
+import versionInfo from 'https://deno.land/x/version_info/mod.ts';
+import type { VersionInfo } from 'https://deno.land/x/version_info/mod.ts';
 
 await versionInfo('std');
 ```
@@ -37,7 +37,7 @@ output:
 ## Example
 
 ```bash
-deno run --allow-net https://deno.land/x/latest_version/example.ts
+deno run --allow-net https://deno.land/x/version_info/example.ts
 ```
 
 ## License
