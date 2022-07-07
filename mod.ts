@@ -1,6 +1,6 @@
 export interface VersionInfo {
   latest: string;
-  verions: string[];
+  versions: string[];
 }
 
 export default async function versionInfo(
