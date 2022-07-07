@@ -42,4 +42,5 @@ deno run --allow-net https://deno.land/x/version_info/example.ts
 
 ## License
 
-[deno_version_info](https://github.com/justjavac/deno_version_info) is released under the MIT License. See the bundled [LICENSE](./LICENSE) file for details.
+[deno_version_info](https://github.com/justjavac/deno_version_info) is released
+under the MIT License. See the bundled [LICENSE](./LICENSE) file for details.
