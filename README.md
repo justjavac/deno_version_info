@@ -1,8 +1,6 @@
 # deno_version_info
 
-[![tag](https://img.shields.io/github/release/justjavac/deno_version_info)](https://github.com/justjavac/deno_version_info/releases)
 [![Build Status](https://github.com/justjavac/deno_version_info/workflows/ci/badge.svg?branch=master)](https://github.com/justjavac/deno_version_info/actions)
-[![license](https://img.shields.io/github/license/justjavac/deno_version_info)](https://github.com/justjavac/deno_version_info/blob/master/LICENSE)
 
 Get version info of Deno from <https://deno.land/x>.
 
